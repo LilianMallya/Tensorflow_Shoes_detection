@@ -1,0 +1,20 @@
+item { 
+	name:'AirForce107'
+	id:1
+}
+item { 
+	name:'LOAirForce107'
+	id:2
+}
+item { 
+	name:'NikeDownshifter11'
+	id:3
+}
+item { 
+	name:'NudeFlatHeel'
+	id:4
+}
+item { 
+	name:'Suedeloafers'
+	id:5
+}
