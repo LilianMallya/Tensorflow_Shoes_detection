@@ -1,4 +1,4 @@
-# 🚀 TFOD Custom Object Detection
+# 🚀 TFOD Shoe Detection
 
 A TensorFlow-based object detection system for training custom models with SSD MobileNetV2.
 
